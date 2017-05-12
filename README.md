@@ -1,0 +1,1 @@
+# Simple GUI driven app for loading a tiff image and displaying it
